@@ -8,6 +8,8 @@ Made with PyGame
 
 """
 hmmm
+nice
+
 """
 import pygame, sys, time, random
 
@@ -15,6 +17,8 @@ import pygame, sys, time, random
 
 
 # Difficulty settings
+
+
 # Easy      ->  10
 # Medium    ->  25
 # Hard      ->  40
